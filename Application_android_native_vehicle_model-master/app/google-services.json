@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "695258491418",
+    "firebase_url": "https://eqinox-1ebfe.firebaseio.com",
+    "project_id": "eqinox-1ebfe",
+    "storage_bucket": "eqinox-1ebfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695258491418:android:3decb5785a10235d",
+        "android_client_info": {
+          "package_name": "com.example.assid.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695258491418-coktrn9nalrrtidvh879fpftj0v0g639.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBism-1QvKPC9nUgFOgNv3HeN9xUHJOdGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

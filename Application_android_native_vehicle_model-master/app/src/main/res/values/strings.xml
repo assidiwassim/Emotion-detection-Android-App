@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">About</string>
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="Occupation">
+        <item>Nurse</item>
+        <item>Banker</item>
+        <item>Teacher</item>
+        <item>Engineer</item>
+        <item>Student</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="From">
+        <item>From</item>
+        <item>7h:00</item>
+        <item>8h:00</item>
+        <item>9h:00</item>
+        <item>10h:00</item>
+        <item>11h:00</item>
+        <item>12h:00</item>
+        <item>13h:00</item>
+        <item>14h:00</item>
+        <item>15h:00</item>
+        <item>16h:00</item>
+        <item>17h:00</item>
+        <item>18h:00</item>
+        <item>19h:00</item>
+        <item>20h:00</item>
+        <item>21h:00</item>
+        <item>22h:00</item>
+        <item>23h:00</item>
+        <item>00h:00</item>
+        <item>1h:00</item>
+        <item>2h:00</item>
+        <item>3h:00</item>
+        <item>4h:00</item>
+        <item>5h:00</item>
+        <item>6h:00</item>
+    </string-array>
+    <string-array name="To">
+        <item>To</item>
+        <item>7h:00</item>
+        <item>8h:00</item>
+        <item>9h:00</item>
+        <item>10h:00</item>
+        <item>11h:00</item>
+        <item>12h:00</item>
+        <item>13h:00</item>
+        <item>14h:00</item>
+        <item>15h:00</item>
+        <item>16h:00</item>
+        <item>17h:00</item>
+        <item>18h:00</item>
+        <item>19h:00</item>
+        <item>20h:00</item>
+        <item>21h:00</item>
+        <item>22h:00</item>
+        <item>23h:00</item>
+        <item>00h:00</item>
+        <item>1h:00</item>
+        <item>2h:00</item>
+        <item>3h:00</item>
+        <item>4h:00</item>
+        <item>5h:00</item>
+        <item>6h:00</item>
+    </string-array>
+    <string-array name="Music">
+        <item>Classical Music</item>
+        <item>Blues</item>
+        <item>Dance Music</item>
+        <item>Electro Music</item>
+        <item> European Music </item>
+        <item> Hip Hop / Rap</item>
+        <item> Indie Pop</item>
+        <item>Inspirational</item>
+        <item> Asian Pop </item>
+        <item> Jazz</item>
+        <item> Latin Music</item>
+        <item> New Age</item>
+        <item> Opera</item>
+        <item> Pop </item>
+        <item> R and B </item>
+        <item> Reggae</item>
+        <item> Rock</item>
+        <item> Singer </item>
+        <item> World Music </item>
+
+    </string-array>
+
+</resources>
